@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Arrasca",
+        "image_path": "faces_images/arrascaeta.jpg" 
+    },
+    {
+        "name": "Romario",
+        "image_path": "faces_images/romario.jpg" 
+    }
+]
